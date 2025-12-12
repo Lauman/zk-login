@@ -1,0 +1,7 @@
+node_modules
+artifacts
+cache
+circuits/zk_login_circuits/circom/zKLogin_cpp
+circuits/zk_login_circuits/circom/zKLogin_cpp
+circuits/zk_login_circuits/circom/witness.wtns
+types
