@@ -61,6 +61,8 @@ The on-chain contract:
 This allows repeated authentications by the same identity while ensuring each login uses a unique nullifier.
 
 ## 📂 Repository structure
+
+```bash
 .
 ├── circuits/zk_login_circuits/circom
 │   ├── ZKLogin.circom
@@ -78,6 +80,7 @@ This allows repeated authentications by the same identity while ensuring each lo
 ├── test/
 │   └── ZKLoginAuth.test.ts
 └── README.md
+```
 
 ## 🛠️ Setup & Installation
 Requirements:
